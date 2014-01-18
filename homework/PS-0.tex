@@ -1,0 +1,126 @@
+\documentclass{article}
+\usepackage{soto-homework}
+\usepackage{color}
+%\usepackage[nohead, margin=1.5in]{geometry}
+%\definecolor{answer-color}{rgb}{0.1, 0.7, 0.1}
+
+% set up whether we are printing assignment or solution
+\newif\ifsolution
+%\solutiontrue
+\solutionfalse
+
+% creates centered heading for sections
+\newcommand{\chead}[1]
+{\begin{center}\large\textbf{#1}\end{center}}
+
+% solution
+%\newcommand{\solution}[1]
+%{\ifsolution
+%\vspace{10pt}
+%{\color{answer-color} #1}
+%\else\fi}
+
+\newcommand{\ufrac}[2]{\frac{\textrm{#1}}{\textrm{#2}}}
+
+\begin{document}
+
+\chead{ENSP 438 Homework 0}
+\chead{Due Date:  Thursday 16 Jan 2014}
+\hrule
+\vspace{10pt}
+
+The problem set you turn in should be both legible and the methods and
+assumptions you are using must be clear.  I strongly suggest that you
+use diagrams where appropriate and clearly state your assumptions.
+Typesetting of problem sets can increase the readability.  The homework
+will be graded on how well you communicate your method as much as the
+correctness of the result.
+
+This is an ungraded problem set to see where your background skills are.
+Please answer these questions to the best of your ability.  The results
+will help me adapt my teaching to the class's background.  Please also
+show enough work for me to see your thought process.
+
+\problem{Previous Classes}
+
+Please list the mathematics, physics, chemistry, and ENSP classes you
+have taken so far.
+
+\problem{Trigonometry}
+
+\paragraph{a.} If $\phi$ equals 30 degrees and $a$ equals 10, what is the value of
+$$ a\sin\phi\cos\phi $$
+
+\solution{
+Substitute given values and evaluate
+$$ 10 \sin 30 \cos 30
+= 10 \cdot 0.5 \cdot 0.866
+= 4.33 $$
+}
+
+\paragraph{b.} Given the following triangle where $O=4$ and $A=3$, what is the value of
+$\sin\theta$?  What is the value of $\theta$ in degrees?  What is the
+value of $\theta$ in radians?
+
+\includegraphics[width=2in]{./figures/right-triangle.jpg}
+
+\solution{
+We can find $H$ by the pythagorean theorem and then find that
+$$ \sin\theta = 4/5 = 0.8 $$
+Using the inverse sin function
+$$ \theta = \sin^{-1}(0.8) = 53\ deg$$
+We can then convert this to radians
+$$ 53\ deg \frac{3.14\ rad}{180\ deg} = 0.925\ rad $$
+}
+
+
+\problem{Discounting}
+
+If $r = 0.02$ and $n = 10$, what is the value of
+$$ \frac{1}{(1 + r)^n} $$
+
+\solution{
+Substitute given values and evaluate
+$$ \frac{1}{(1 + 0.02)^{10}}
+= \frac{1}{(1.02)^{10}}
+= \frac{1}{1.22}
+= 0.82 $$
+}
+
+\problem{Power}
+
+A entertainment center draws an average of 150 watts and is on for 12 hours.  How
+many kilowatt-hours of energy are consumed?
+
+\solution{
+Energy is equal to the power multiplied by the time.
+$$ 150\ W \cdot 12\ hours = 1800\ Wh = 1.8\ kWh $$
+}
+
+\problem{Ohms Law}
+
+You have a 2000 ohm resistor and a 3 volt power supply.  If you connect
+the resistor to the power supply, how much current flows?  How much
+power is dissipated in the resistor?
+
+\solution{
+We can find the current from ohms law.
+$$ V = IR $$
+$$ I = V/R = 3\ V / 2000\ ohms = 0.0015\ amps = 1.5\ mA $$
+The power can be found either by $P=I^2 R$ or $P=V^2/R$
+$$ P = V^2/R = (3\ V)^2 / 2000\ ohms = 0.0045\ W = 0.0045\ mW $$
+}
+
+\problem{Spreadsheet}
+
+Using your Seawolf google docs account, create an Google Docs
+spreadsheet entitled "lastname firstname homework 0".  In the first
+column of the spreadsheet, create the numbers 0 through 10.  In the
+second column, create a formula that multiplies each of these numbers by
+two.  Share the spreadsheet with me at my address (sotod@seawolf).
+
+\problem{Time Spent}
+
+Please estimate the amount of time you spent on this homework.
+
+\end{document}
