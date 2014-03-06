@@ -9,8 +9,10 @@ Project Proposal
 ## Thursday, 13 Mar 2014
 Read REEPS2 7.1 -- 7.5
 
+<!--
 ## Tuesday, 1 Apr 2014
 Homework 4
+-->
 
 ## Thursday, 27 Mar 2014
 Read REEPS2 7.6 -- 7.10
