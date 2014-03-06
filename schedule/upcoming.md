@@ -9,6 +9,15 @@ Read REEPS2 6.5 (6.6 optional)
 ## Tuesday, 11 Mar 2014
 Project Proposal
 
+## Thursady, 13 Mar 2014
+Read REEPS2 7.1 -- 7.5
+
 ## Tuesday, 1 Apr 2014
 Homework 4
+
+## Thursday, 27 Mar 2014
+Read REEPS2 7.6 -- 7.10
+
+Proposal feedback
+
 
