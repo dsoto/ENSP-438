@@ -40,11 +40,68 @@ spreadsheet and see your formulas.
 
 
 \solution{
-\includegraphics{./REEPS2-Solutions/R2_1_1.pdf}
+
+The key is to understand the relationship between the efficiency of the
+plant and the heat rate.
+
+$$ \eta = \textrm{efficiency} = \ufrac{electrical energy delivered}
+{chemical energy consumed} $$
+
+
+
+The efficiency of the plant has no units since the energy on the top and
+bottom are expressed in the same units.
+
+The heat rate has units since chemical energy is often expressed in BTU
+or kJ and electrical energy is often expressed in kWh.
+
+$$ \textrm{heat rate} = \ufrac{chemical energy consumed (BTU or kJ)}{electrical
+energy delivered (kWh)} $$
+
+We can convert the unit-less efficiency to a heat rate by using a unit
+conversion.
+
+$$ \ufrac{1 kWh chemical energy}{0.52 kWh electrical energy} \cdot
+\ufrac{3600 kJ chemical energy}{1 kWh chemical energy}
+= 6923 \ufrac{kJ chemical energy}{kWh electrical energy} $$
+
+$$ \ufrac{1 kWh chemical energy}{0.52 kWh electrical energy} \cdot
+\ufrac{3412 BTU chemical energy}{1 kWh chemical energy}
+= 6562 \ufrac{BTU chemical energy}{kWh electrical energy} $$
+
+From the heat rate in kJ/kWh, we can perform a unit conversion since the
+amount of carbon and carbon dioxide released are proportional to the
+amount of chemical energy consumed.
+
+$$ \ufrac{6923 kJ natural gas}{1 kWh electrical energy} \cdot
+\ufrac{1 kg natural gas}{55,340 kJ natural gas} \cdot
+\ufrac{0.77 kg carbon}{1 kg natural gas}
+= 0.096 \textrm{kg C/kWh} $$
+
+To get the carbon dioxide, we further multiply by the ratio of the
+weights of carbon dioxide and carbon (44/12 or 3.67)
+
+$$ \ufrac{6923 kJ natural gas}{1 kWh electrical energy} \cdot
+\ufrac{1 kg natural gas}{55,340 kJ natural gas} \cdot
+\ufrac{0.77 kg carbon}{1 kg natural gas} \cdot
+\ufrac{44 kg carbon dioxide}{12 kg carbon}
+= 0.353 \textrm{kg C/kWh} $$
+
+The coal plant in Example 1.1 has a carbon emission rate of 0.267
+kgC/kWh.  This natural gas plant has a carbon emission rate about 1/3 of
+this.
+
+
+%\includegraphics{./REEPS2-Solutions/R2_1_1.pdf}
 }
 
 
 \subproblem{REEPS2 Problem 1.3}
+
+% for next year, what is the most important difference between coal and
+% natural gas, the heat rate or the carbon intensity of fuel?  you may
+% also show the calculation once in written form and perform the other
+% calculations in a spreadsheet if you wish.
 
 \solution{
 
@@ -53,10 +110,93 @@ Each of these numbers should be multiplied by 44/12 (the conversion from
 mass carbon to mass carbon dioxide) to get the added
 carbon cost on the electricity.
 
-\includegraphics{./REEPS2-Solutions/R2_1_3.pdf}
+We can solve this as a unit conversion problem.  The key insight is that
+the tax, carbon emitted, and fuel burned per kilowatt hour are all
+proportional.  Be sure you understand what each number and conversion
+factor represents.  It is important to distinguish between chemical and
+electrical energy.
+
+The heat rate gives us the amount of chemical energy combusted for every
+unit of electrical energy generated.
+
+$$ \textrm{Heat Rate} = \ufrac{Chemical Energy Consumed}{Electrical Energy
+Created} $$
+
+We then multiply this by the chemical energy density, rate of carbon
+dioxide emissions per unit fuel, tax rate per unit carbon dioxide.  Here
+is the main idea.
+
+
+$$ \ufrac{Chem Energy}{Elec Energy} \cdot
+\ufrac{Fuel Mass}{Chem Energy} \cdot
+\ufrac{Carbon Dioxide Mass}{Fuel Mass} \cdot
+\ufrac{Tax Cost}{Carbon Dioxide Mass}
+= \ufrac{Tax Cost}{Elec Energy}$$
+
+To get the numbers right, apply the appropriate unit conversions.
+
+a) Old Coal (heat rate 10,500 BTU/kWh, carbon content 24.5 kg carbon/GJ)
+
+$$ \ufrac{10,500 Btu}{1 kWh} \cdot
+\ufrac{1055 J}{1 Btu} \cdot
+\ufrac{24.5 kg carbon}{10$^9$ J Fuel} \cdot
+\ufrac{44 kg CO$_2$}{12 kg carbon} \cdot
+\ufrac{50 USD}{1000 kg CO$_2$} \cdot
+\ufrac{100 cents}{1 USD} =
+4.97\ cents / kWh $$
+
+b) New Coal (heat rate 8,500 BTU/kWh, carbon content 24.5 kg carbon/GJ)
+
+$$ \ufrac{8,500 Btu}{1 kWh} \cdot
+\ufrac{1055 J}{1 Btu} \cdot
+\ufrac{24.5 kg carbon}{10$^9$ J Fuel} \cdot
+\ufrac{44 kg CO$_2$}{12 kg carbon} \cdot
+\ufrac{50 USD}{1000 kg CO$_2$} \cdot
+\ufrac{100 cents}{1 USD} =
+4.03\ cents / kWh $$
+
+c) Integrated gasification, combined cycle coal (heat rate 9,000
+BTU/kWh, carbon content 24.5 kg carbon/GJ)
+
+$$ \ufrac{9,000 Btu}{1 kWh} \cdot
+\ufrac{1055 J}{1 Btu} \cdot
+\ufrac{24.5 kg carbon}{10$^9$ J Fuel} \cdot
+\ufrac{44 kg CO$_2$}{12 kg carbon} \cdot
+\ufrac{50 USD}{1000 kg CO$_2$} \cdot
+\ufrac{100 cents}{1 USD} =
+4.25\ cents / kWh $$
+
+d) Natural Gas combined cycle (heat rate 7,000 BTU/kWh, carbon content
+13.7 kg carbon/GJ)
+
+$$ \ufrac{7,000 Btu}{1 kWh} \cdot
+\ufrac{1055 J}{1 Btu} \cdot
+\ufrac{13.7 kg carbon}{10$^9$ J Fuel} \cdot
+\ufrac{44 kg CO$_2$}{12 kg carbon} \cdot
+\ufrac{50 USD}{1000 kg CO$_2$} \cdot
+\ufrac{100 cents}{1 USD} =
+1.87\ cents / kWh $$
+
+
+e) Natural Gas combustion turbine (heat rate 9,500 BTU/kWh, carbon
+content 13.7 kg carbon/GJ)
+
+$$ \ufrac{9,500 Btu}{1 kWh} \cdot
+\ufrac{1055 J}{1 Btu} \cdot
+\ufrac{13.7 kg carbon}{10$^9$ J Fuel} \cdot
+\ufrac{44 kg CO$_2$}{12 kg carbon} \cdot
+\ufrac{50 USD}{1000 kg CO$_2$} \cdot
+\ufrac{100 cents}{1 USD} =
+2.52\ cents / kWh $$
+
+The natural gas plants have less possible tax liability by about a
+factor of 2.  Note that the natural gas heat rates are not lower than
+the coal heat rates but the carbon released per amount of chemical
+energy is lower.  Also note that this calculation is redundant and a
+good candidate for a spreadsheet.
+
+%\includegraphics{./REEPS2-Solutions/R2_1_3.pdf}
 }
-
-
 
 
 
@@ -79,7 +219,20 @@ year long.  The ratio of these two numbers is the capacity factor.
 
 \includegraphics{./REEPS2-Solutions/R2_1_11ac.pdf}
 
+The capacity factor is best expressed for this example as
+
+$$ CF = \ufrac{Electrical energy actually delivered by coal plants}
+{Coal electrical energy if plants were run all year} $$
+
+The energy actually delivered is the shaded area since coal supplies
+100\% of the demand below 600 MW.  The possible energy is the 600 MW
+times the 8760 hours in a year.
+
 \includegraphics{./REEPS2-Solutions/R2_1_11d.pdf}
+
+The energy delivered by the coal plants is the top part of the capacity
+factor.
+
 }
 
 
