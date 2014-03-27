@@ -25,6 +25,7 @@ ENSP majors, junior- or senior-level standing, or consent of instructor.
 - Understand science and economics of renewable electricity sources
 - Perform detailed calculations of energy production and economic value
   of renewable energy sources
+- Communicate quantitative aspects of electricity generation
 
 ## Course Requirements
 
@@ -58,64 +59,119 @@ class for learning purposes.  Using devices for social networks or other
 uses during class time is strongly discouraged.
 
 
-## Required Texts
+## Course Schedule
+
+|   Lecture | Date      | Topic                              |
+|----------:|:----------|:-----------------------------------|
+|         1 | Tue 01-14 | Introduction                       |
+|         2 | Thu 01-16 | Time value of money                |
+|         3 | Tue 01-21 | NPV, IRR                           |
+|         4 | Thu 01-23 | NPV, IRR, CRF                      |
+|         5 | Tue 01-28 | LCOE                               |
+|         6 | Thu 01-30 | Carbon, LDC                        |
+|         7 | Tue 02-04 | Solar Angles                       |
+|         8 | Thu 02-06 | Solar Angles, solar radiation      |
+|         9 | Tue 02-11 | PV fundamentals                    |
+|        10 | Thu 02-13 | Solar IV curves                    |
+|        11 | Tue 02-18 | Solar IV curves                    |
+|        12 | Thu 02-20 | Solar systems and simulation tools |
+|        13 | Tue 02-25 | PV system design                   |
+|        14 | Thu 02-27 | PV system economics                |
+|        15 | Tue 03-04 | PV system design                   |
+|        16 | Thu 03-06 | PV system design                   |
+|        17 | Tue 03-11 | Batteries                          |
+|        18 | Thu 03-13 | Off-grid design example            |
+|        19 | Tue 03-25 | Wind energy physics                |
+|        20 | Thu 03-27 | Wind power and energy              |
+|        21 | Tue 04-01 | Wind economics                     |
+|        22 | Thu 04-03 | Smart Grid Technology              |
+|        23 | Tue 04-08 | Smart Grid Economics               |
+|        24 | Thu 04-10 | Other technologies                 |
+|        25 | Tue 04-15 | Other technologies                 |
+|        26 | Thu 04-17 | Developing world                   |
+|        27 | Tue 04-22 | Optional Topics                    |
+|        28 | Thu 04-24 | Presentations                      |
+|        29 | Tue 04-29 | Presentations                      |
+|        30 | Thu 05-01 | Presentations                      |
+
+## Readings
+
+The required text for this course is:
 
 Gil Masters, *Renewable and Efficient Electric Power Systems*, 2nd
 Edition.  Available at the Campus Bookstore and at Northlight Books.
 There is also an online version of the text available on the Sonoma
 Library website.
 
-Other readings will be posted online to Moodle.
+There will also be readings posted to Moodle throughout the
+semester.  Graded reflection assignments will be assigned for posted
+readings and will be included in your homework grading average.
 
-## Course Schedule
+Here is the tentative reading schedule
 
-|    | Date        | Lecture Topic            |
-|:---|:------------|:-------------------------|
-| 1  | 14 Jan 2014 | Introduction             |
-| 2  | 16 Jan 2014 | Investment basics        |
-| 3  | 21 Jan 2014 | Investment basics        |
-| 4  | 23 Jan 2014 | Computational techniques |
-| 5  | 28 Jan 2014 | Generation economics     |
-| 6  | 30 Jan 2014 | Generation economics     |
-| 7  | 04 Feb 2014 | Solar resource           |
-| 8  | 06 Feb 2014 | Solar resource           |
-| 9  | 11 Feb 2014 | Solar technology         |
-| 10 | 13 Feb 2014 | Solar technology         |
-| 11 | 18 Feb 2014 | Power conversion         |
-| 12 | 20 Feb 2014 | Quantifying demand       |
-| 13 | 25 Feb 2014 | Quantifying demand       |
-| 14 | 27 Feb 2014 | Wind resource            |
-| 15 | 04 Mar 2014 | Wind technology          |
-| 16 | 06 Mar 2014 | Water pumping            |
-| 17 | 11 Mar 2014 | Water pumping            |
-| 18 | 13 Mar 2014 | Storage technology       |
-| 19 | 25 Mar 2014 | Storage technology       |
-| 20 | 27 Mar 2014 | Storage economics        |
-| 21 | 01 Apr 2014 | Off-grid economics       |
-| 22 | 03 Apr 2014 | Transmission economics   |
-| 23 | 08 Apr 2014 | Utility structure        |
-| 24 | 10 Apr 2014 | Utility structure        |
-| 25 | 15 Apr 2014 | New finance developments |
-| 26 | 17 Apr 2014 | Macro economic picture   |
-| 27 | 22 Apr 2014 | Macro economic picture   |
-| 28 | 24 Apr 2014 | Presentation             |
-| 29 | 29 Apr 2014 | Presentation             |
-| 30 | 01 May 2014 | Presentation             |
+| Date      | Reading           |
+|:----------|:------------------|
+| Thu 01-16 | REEPS Appendix A  |
+| Tue 01-21 | Luenberger Ch 1   |
+| Tue 01-28 | REEPS2 Ch 1       |
+| Tue 02-04 | REEPS2 Ch 4       |
+| Tue 02-11 | REEPS2 Ch 5       |
+| Tue 02-25 | REEPS2 6.1 - 6.3  |
+| Thu 03-06 | REEPS2 6.4 - 6.5  |
+| Thu 03-13 | REEPS2 7.1 - 7.5  |
+| Thu 03-27 | REEPS2 7.6 - 7.10 |
+| Thu 04-03 | REEPS 9.1 - 9.4   |
+| Tue 04-08 | REEPS 9.5 - 9.8   |
+| Thu 04-10 | REEPS 8.1 - 8.4   |
+| Tue 04-15 | REEPS 8.5 - 8.8   |
 
-## Readings
+## Project Schedule
 
-| Date        | Reading           |
-|:------------|:------------------|
-| 16 Jan 2014 | REEPS2 Appendix A |
-| 21 Jan 2014 | Luenberger Ch. 1  |
-| 28 Jan 2014 | REEPS2 Ch. 1      |
-| 04 Feb 2014 | REEPS2 Ch. 4      |
-| 11 Feb 2014 | REEPS2 Ch. 5      |
-| 20 Feb 2014 | REEPS2 Ch. 6      |
-| 27 Feb 2014 | REEPS2 Ch. 7      |
-| 13 Mar 2014 | REEPS2 Ch. 8      |
-| 08 Apr 2014 | REEPS2 Ch. 9      |
+Here is the tentative project schedule.
 
+| Date      | Project              |
+|:----------|:---------------------|
+| Thu 02-20 | Brainstorm 3 topics  |
+| Thu 02-27 | Choose topic         |
+| Tue 03-11 | Project proposal     |
+| Thu 03-27 | Proposal feedback    |
+| Tue 04-08 | First draft          |
+| Tue 04-15 | First draft feedback |
+| Thu 04-24 | Final report         |
+
+## Homework
+
+You will be graded both on the
+validity of your work as well as your ability to communicate your
+methods.  This means that in addition to the mathematics, you should be
+providing brief explanations of your techniques and your thought
+process.  Calculations without supporting arguments will not receive
+full credit.
+
+Homework will be graded on a coarse grading schedule of a 1, 2, or 3.  A
+3 is given for strong work that meets or exceeds the requirements, a 2
+for adequate work, and a 1 for work that doesn't meet expectations.
+After grading, you may submit a self-evaluation that considers how your
+approach differs from the accepted approach.  Self-evaluations that
+demonstrate an improvement in your understanding will raise your
+homework grade through partial credit.
+
+
+Here is the tentative homework schedule.
+
+| Date      | Homework     |
+|:----------|:-------------|
+| Thu 01-16 | Homework 0   |
+| Tue 02-11 | Homework 1   |
+| Thu 02-20 | Homework 2   |
+| Tue 03-04 | Homework 3   |
+| Tue 04-01 | Reflection 1 |
+| Thu 04-03 | Homework 4   |
+| Tue 04-08 | Reflection 2 |
+| Tue 04-15 | Reflection 3 |
+| Thu 04-17 | Homework 5   |
+| Tue 04-22 | Reflection 4 |
+| Thu 05-01 | Reflection 5 |
 
 ## Office Hours
 
