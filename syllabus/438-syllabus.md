@@ -1,14 +1,14 @@
 # Small Scale Energy Sources, ENSP 438, Spring 2014
 
-4 Units, Tuesday and Thursday, 10:00 - 11:50 am, ETC
-
-------------------------------------------------
-Daniel Soto
-Rachel Carson Hall 12
-sotod@sonoma.edu
-Department of Environmental Studies and Planning
-Sonoma State University
-------------------------------------------------
+|           |                                       |
+|-----------|---------------------------------------|
+|Days       | Tuesday and Thursday                  |
+|Time       | 10:00 - 11:50 am                      |
+|Units      | 4                                     |
+|Location   | Environmental Technology Center (ETC) |
+|Instructor | Daniel Soto                           |
+|Office     | Rachel Carson Hall 12                 |
+|Email      | sotod@sonoma.edu                      |
 
 ## Course Description
 
