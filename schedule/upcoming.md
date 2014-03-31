@@ -1,28 +1,100 @@
-# ENSP 438 Upcoming Assignments
-
 <!--
-## Thursday, 6 Mar 2014
-Read REEPS2 6.5 (6.6 optional)
+##  Tue 01-14
 
-## Tuesday, 11 Mar 2014
-Project Proposal
+##  Thu 01-16
+- Homework 0
+- REEPS Appendix A
 
-## Thursday, 13 Mar 2014
-Read REEPS2 7.1 - 7.5
+##  Tue 01-21
+- Luenberger Ch 1
+
+##  Thu 01-23
+
+##  Tue 01-28
+- REEPS2 Ch 1
+
+##  Thu 01-30
+
+##  Tue 02-04
+- REEPS2 Ch 4
+
+##  Thu 02-06
+
+##  Tue 02-11
+- Homework 1
+- REEPS2 Ch 5
+
+##  Thu 02-13
+
+##  Tue 02-18
+
+##  Thu 02-20
+- Homework 2
+- Brainstorm 3 topics
+
+##  Tue 02-25
+- REEPS2 6.1 - 6.3
+
+##  Thu 02-27
+- Choose topic
+
+##  Tue 03-04
+- Homework 3
+
+##  Thu 03-06
+- REEPS2 6.4 - 6.5
+
+##  Tue 03-11
+- Project proposal
+
+##  Thu 03-13
+- REEPS2 7.1 - 7.5
+
+## nan
+
+##  Tue 03-25
+
+##  Thu 03-27
+- Proposal feedback
+- REEPS2 7.6 - 7.10
+
 -->
 
-## Thursday, 27 Mar 2014
-Read REEPS2 7.6 - 7.10
 
-Proposal feedback
+##  Tue 04-01
+- Reflection 1
 
-## Tuesday, 1 Apr 2014
-Homework 1 Reflection
+##  Thu 04-03
+- Homework 4
+- REEPS 9.1 - 9.4
 
-## Thursday, 3 Apr 2014
-Homework 4
+##  Tue 04-08
+- Reflection 2
+- First draft
+- REEPS 9.5 - 9.8
 
-## Tuesday, 8 Apr 2014
-Project First Draft
+##  Thu 04-10
+- REEPS 8.1 - 8.4
 
-Homework 2 Reflection
+<!--
+
+##  Tue 04-15
+- Reflection 3
+- First draft feedback
+- REEPS 8.5 - 8.8
+
+##  Thu 04-17
+- Homework 5
+
+##  Tue 04-22
+- Reflection 4
+
+##  Thu 04-24
+- Final report
+
+##  Tue 04-29
+
+##  Thu 05-01
+- Reflection 5
+
+-->
