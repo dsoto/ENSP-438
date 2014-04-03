@@ -94,7 +94,17 @@ You will turn in a first draft of your proposal.  This first draft will
 contain a report explaining your calculation and analysis and the
 spreadsheet calculation itself.
 
+This report will contain a written part with an introduction, a
+description of your methods, a summary of your results, and a discussion
+of the implications of your result.  You will also include either in the
+text or as an appendix, the details of your calculations.  The written
+portion should be at least 1000 words in length.
 
+The report will be submitted via moodle as a single PDF file.
+
+
+Unexcused late submissions will lose 10 points for each day they are
+late.
 
 ## Peer reading of first draft
 
@@ -105,15 +115,20 @@ your proposal.
 
 <!-- these cannot be yes and no questions -->
 
-1) How can the spreadsheet calculations be made more clear?
-2) How can the explanation of the calculations be made more clear?
-3) What are the important points in the report and explanation?
+1. How can the spreadsheet calculations be made more clear?
+2. How can the explanation of the calculations be made more clear?
+3. What are the important points in the report and explanation?
 
 ## Final report
 
 
 You will turn in a single PDF file with your report, and spreadsheet
 outputs.
+
+The final report will incorporate the feedback from the peer reading.
+
+Unexcused late submissions will lose 10 points for each day they are
+late.
 
 ## Final Presentation
 
