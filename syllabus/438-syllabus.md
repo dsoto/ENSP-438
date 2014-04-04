@@ -173,6 +173,12 @@ Here is the tentative homework schedule.
 | Tue 04-22 | Reflection 4 |
 | Thu 05-01 | Reflection 5 |
 
+## Classroom Work
+
+We will solve problems in class that I hand out.  These are graded
+credit no credit.  If you have an unexcused absence on that day, you
+will receive a no credit grade for that days work.
+
 ## Office Hours
 
 My office hours are held Tuesday and Wednesday in my office in Rachel
