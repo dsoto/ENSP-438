@@ -58,9 +58,6 @@
 - Proposal feedback
 - REEPS2 7.6 - 7.10
 
--->
-
-
 ##  Tue 04-01
 - Reflection 1
 
@@ -68,23 +65,25 @@
 - Homework 4
 - REEPS 9.1 - 9.4
 
+-->
+
 ##  Tue 04-08
-- Reflection 2
+- Homework Reflection 2
 - First draft
-- REEPS 9.5 - 9.8
+- Reading: REEPS 9.5 - 9.8
 
 ##  Thu 04-10
 - REEPS 8.1 - 8.4
 
-<!--
-
 ##  Tue 04-15
-- Reflection 3
+- Homework Reflection 3
 - First draft feedback
-- REEPS 8.5 - 8.8
+- Reading: REEPS 8.5 - 8.8
 
 ##  Thu 04-17
 - Homework 5
+
+<!--
 
 ##  Tue 04-22
 - Reflection 4
