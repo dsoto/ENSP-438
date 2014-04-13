@@ -65,7 +65,6 @@
 - Homework 4
 - REEPS 9.1 - 9.4
 
--->
 
 ##  Tue 04-08
 - Homework Reflection 2
@@ -75,6 +74,8 @@
 ##  Thu 04-10
 - REEPS 8.1 - 8.4
 
+-->
+
 ##  Tue 04-15
 - Homework Reflection 3
 - First draft feedback
@@ -83,17 +84,16 @@
 ##  Thu 04-17
 - Homework 5
 
-<!--
-
 ##  Tue 04-22
-- Reflection 4
+- Homework Reflection 4
 
 ##  Thu 04-24
-- Final report
+- Final project report
 
+<!--
 ##  Tue 04-29
 
 ##  Thu 05-01
-- Reflection 5
+- Homework Reflection 5
 
 -->
