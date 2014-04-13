@@ -106,18 +106,33 @@ The report will be submitted via moodle as a single PDF file.
 Unexcused late submissions will lose 10 points for each day they are
 late.
 
-## Peer reading of first draft
+## First draft feedback
 
 In professional
 environments, any work you do will be submitted for review and revision.
 We will simulate this by sending it to the same peer reviewers that read
-your proposal.
+your proposal.  They will read it and give you feedback on
 
 <!-- these cannot be yes and no questions -->
 
+1. Is the report well structured and does it contain an introduction,
+   method description, and discussion of implications?
 1. How can the spreadsheet calculations be made more clear?
-2. How can the explanation of the calculations be made more clear?
-3. What are the important points in the report and explanation?
+1. How can the explanation of the calculations be made more clear?
+1. Are there any mistakes in the calculation?
+
+If you don't have any suggestions for improvement, you must point out
+which aspects of the project are strongest and why.
+
+
+### Submission
+
+You will have the same feedback partners as you had for the proposal.
+Communicate your written feedback to your classmates however you like.
+You will also submit a copy of your written feedback to your classmates, in
+PDF format, on Moodle.  Indicate the name of the feedback recipients in
+the comments.
+
 
 ## Final report
 
