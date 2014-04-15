@@ -137,19 +137,49 @@ the comments.
 ## Final report
 
 
-You will turn in a single PDF file with your report, and spreadsheet
-outputs.
+You will turn in a single PDF file with your report.  You may also
+submit your spreadsheets to Moodle.
 
 The final report will incorporate the feedback from the peer reading.
 
 Unexcused late submissions will lose 10 points for each day they are
 late.
 
+### Submission
+
+There will be a Moodle link to upload your report and any supporting
+information (spreadsheets or other raw calculations).
+
+### Grading
+Your projects will be graded according to the following criteria
+
+- Overall organization of report
+- Clarity and communication of your quantitative analysis
+- Accuracy of the quantitative analysis
+- Clarity of writing
+
+
 ## Final Presentation
 
-
 You will present your work in class explaining your topic, your
-analysis, and your results.
+analysis, and your results.  Presentations will be approximately 10
+minutes and will leave time for about 5 minutes of questions.
+
+### Grading
+Your presentations will be graded according to the following criteria
+
+- Clarity of presentation
+- Use of visual aids
+- Preparation
+- Organization
+
+### Submission
+
+In addition to the in-class presentation.  There will be a Moodle link
+for you to upload a PDF of your slides or materials.
+
+
+
 
 ## Groups
 
