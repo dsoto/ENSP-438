@@ -10,3 +10,5 @@ $(prefix).html : $(prefix).md
 
 $(prefix).pdf : $(prefix).html
 	wkpdf -m 36 -o $(prefix).pdf -s $(prefix).html
+
+# add rules to make upcoming schedule
