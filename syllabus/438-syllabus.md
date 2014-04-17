@@ -159,19 +159,19 @@ homework grade through partial credit.
 
 Here is the tentative homework schedule.
 
-| Date      | Homework     |
-|:----------|:-------------|
-| Thu 01-16 | Homework 0   |
-| Tue 02-11 | Homework 1   |
-| Thu 02-20 | Homework 2   |
-| Tue 03-04 | Homework 3   |
-| Tue 04-01 | Reflection 1 |
-| Thu 04-03 | Homework 4   |
-| Tue 04-08 | Reflection 2 |
-| Tue 04-15 | Reflection 3 |
-| Thu 04-17 | Homework 5   |
-| Tue 04-22 | Reflection 4 |
-| Thu 05-01 | Reflection 5 |
+| Date      | Homework              |
+|:----------|:----------------------|
+| Thu 01-16 | Homework 0            |
+| Tue 02-11 | Homework 1            |
+| Thu 02-20 | Homework 2            |
+| Tue 03-04 | Homework 3            |
+| Tue 04-01 | Reflection 1          |
+| Thu 04-03 | Homework 4            |
+| Tue 04-08 | Reflection 2          |
+| Tue 04-15 | Reflection 3          |
+| Thu 04-17 | Homework 5            |
+| Tue 04-29 | Homework Reflection 4 |
+| Thu 05-01 | Homework Reflection 5 |
 
 ## Classroom Work
 
